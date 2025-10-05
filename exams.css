@@ -1,0 +1,9 @@
+.table{
+    border: 10px solid rgb(244, 224, 200);
+    border-collapse: collapse;
+}
+td,tr{
+    border: 20px solid rgb(247, 205, 205);
+    border-collapse: collapse;
+    padding: 10px;
+}

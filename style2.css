@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    padding: 20px;
+    outline: 2px solid blue;
+    gap: 5%;
+}
+.cont-map{
+    outline: 1px solid rgb(255, 0, 174);
+    border-radius: 10px;  
+
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 2%;
+
+}
+.form input{
+    width: 600px;
+    height: 5vh;
+}
+.form textarea{
+    height: 40vh;
+}
+.form button{
+    height: 5vh;
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    border-radius: 1px;
+    border: none; 
+}
