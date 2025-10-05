@@ -1,1 +1,63 @@
-# Resturant-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resturant</title>
+</head>
+<link rel="stylesheet" href="style3.css">
+<body>
+    <header>
+            <h1>Welcome to My Restaurant</h1>
+            <p>Come and experience the best food in town</p>
+            <a href="">Home</a>
+            <a href="">About</a>
+            <a href="">Desserts</a>
+            <a href="">Contact</a>
+            <button type="button">Order Now</button>
+        </div> 
+    </header>
+    <main>
+        <div class="restaurant">
+            <h1>Check it Out</h1>
+            <img src="Indulge in the ultimate fine dining experience in….jpeg" alt="hero-img">
+        </div>
+        </main>
+        <main>
+        
+        <div class="about">
+            <!--About section-->
+            <h1>OUR MENU </h1>
+             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, eligendi veniam inventore aspernatur eveniet laborum, aut reprehenderit nostrum hic repellat animi quos. Tenetur repellendus veritatis sed, dolorum fuga suscipit illo.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem corrupti quidem vero? Cum quisquam ex corrupti sint eius veniam minima iure! Quas ut, numquam assumenda vel harum aliquid similique sequi.</p>
+             <img src="2f08cbb5-2711-461c-aa74-6f22f834e172.jpeg" alt="menu">
+        </div>
+        
+
+         <!--Menu items section-->
+        <div class="menu-items">
+            <h1>MENU ITEMS </h1>
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime quaerat quo quas ea illum ut incidunt. Ipsa et tenetur, eum alias voluptate, totam deleniti nisi labore quasi animi, quas est.</p>
+             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, eligendi veniam inventore aspernatur eveniet laborum, aut reprehenderit nostrum hic repellat animi quos.Tenetur repellendus veritatis sed, dolorum fuga suscipit illo.
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur impedit quia, maxime, ea officiis natus laborum quo beatae facere ipsa exercitationem numquam molestias asperiores nostrum non obcaecati doloremque. Aliquam, sint!
+             </p>
+            <img src="_Everyone loves dessert, especially when it’s a….jpeg" alt="">
+
+
+        <!--Dessert section-->
+        <div class="desserts">
+            <h1>DESSERTS </h1>
+             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, eligendi veniam inventore aspernatur eveniet laborum, aut reprehenderit nostrum hic repellat animi quos.Tenetur repellendus veritatis sed, dolorum fuga suscipit illo.
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur impedit quia, maxime, ea officiis natus laborum quo beatae facere ipsa exercitationem numquam molestias asperiores nostrum non obcaecati doloremque. Aliquam, sint!
+             </p>
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime quaerat quo quas ea illum ut incidunt. Ipsa et tenetur, eum alias voluptate, totam deleniti nisi labore quasi animi, quas est.</p>
+             <img src="8045f62a-6c1d-4159-ad8a-e12ddecfb207.jpeg" alt="desserts">
+                <h4>This is $250</h4>
+    </main>
+    <footer>
+        <p class="footer"> &copy; 2024 Pretty Coding. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
